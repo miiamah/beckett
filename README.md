@@ -1,6 +1,6 @@
 # beckett
 unity game
 
-other team members:
-Henry Hupli
-Jan Nummelin
+other team members: <br>
+Henry Hupli<br>
+Jan Nummelin<br>
